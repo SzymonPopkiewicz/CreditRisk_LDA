@@ -1,0 +1,2 @@
+The project presents LDA models known from the literature. Data visualizations were omitted due to the nature of the data (accounting). The work was to focus on the effectiveness of the models. The work could be enriched by the application of machine learning models, i.e., decision trees.
+The biggest problem for LDA (linear) models is the number of outliers (different company sizes) and correlations between variables—for these reasons, ML models could perform better.
